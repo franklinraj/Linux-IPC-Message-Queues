@@ -92,5 +92,5 @@ return 0;
 
 
 
-# RESULT:
+# RESULT: 
 The programs are executed successfully.
